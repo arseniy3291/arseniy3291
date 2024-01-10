@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @arseniy3291
+- 👀 I’m interested in neural network
+- 📫 How to reach me _arseniik
